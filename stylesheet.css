@@ -276,13 +276,13 @@ html, body {
 }
 
 #namaste {
-	font-family: Brush Script MT, cursive;
+	font-family: "Roboto", sans-serif;
 	margin-top: 10px;
-	font-size: 90px;
+	font-size: 70px;
 }
 
 #paragragh {
-	font-family: system-ui;
+	font-family: "Open Sans", sans-serif;
 	font-size: 20px;
 	margin: 0px 60px;
 	margin-bottom: 60px;
@@ -324,8 +324,8 @@ html, body {
 }
 
 .section-title {
-	margin-bottom: 40px;
-	font-family: rush Script MT, cursive;
+	margin-bottom: 50px;
+	font-family: "Roboto", sans-serif;
 }
 
 .icon-box {
@@ -349,7 +349,7 @@ html, body {
 }
 
 .icon-box span {
-	font-family: system-ui;
+	font-family: "Open Sans", sans-serif;
 	font-size: 15px;
 	font-weight: 500;
 	margin: 0;
@@ -454,7 +454,7 @@ html, body {
 	color: #69b5cc;
 	text-align: center;
 	margin-top: 20px;
-	font-family: Brush Script Std, Brush Script MT, cursive;
+	font-family: "Roboto", sans-serif;
 	margin-bottom: 50px;
 	text-shadow: 7px 7px 7px black;
 }
@@ -467,7 +467,7 @@ html, body {
 
 .field-left, .field-right {
 	color: white;
-	font-family: system-ui;
+	font-family: "Open Sans", sans-serif;
 	font-size: 18px;
 	margin: 20px; /* Add margin for spacing between cards */
 	border-radius: 10px;
@@ -597,7 +597,7 @@ html, body {
     color: #69b5cc;
     text-align: center;
     margin-top: 60px;
-    font-family: Brush Script Std, Brush Script MT, cursive;
+    font-family: "Roboto", sans-serif;
     margin-bottom: 60px;
     text-shadow: 7px 7px 7px black;
 }
@@ -713,12 +713,12 @@ canvas {
 h3,
 h4 {
     margin: 5px 0;
-	font-family: system-ui;
+	font-family: "Open Sans", sans-serif;
 }
 
 p {
     text-align: center;
-	font-family: system-ui;
+	font-family: "Open Sans", sans-serif;
 }
 
 .link-btn {  
@@ -837,7 +837,7 @@ p {
 #massage{
 
 	text-align: center;
-	font-family: system-ui;
+	font-family: "Open Sans", sans-serif;
 }
 
 #heading-2{
@@ -845,7 +845,7 @@ p {
 	color: #69b5cc;
 	text-align: center;
 	margin-top: 60px;
-	font-family: Brush Script Std, Brush Script MT, cursive;
+	font-family: "Roboto", sans-serif;
 	margin-bottom: 30px;
 	text-shadow: 7px 7px 7px black;
 }
@@ -904,7 +904,7 @@ footer{
 	margin: 0px;
 	padding: 0px;
 	height: 100%;
-	font-family: system-ui;
+	font-family: "Open Sans", sans-serif;
 	font-size: 15px;
 	border-top: 2px solid #1c3572;
 
